@@ -1,0 +1,9 @@
+node_modules/
+.env
+uploads/applications/*
+uploads/complaints/*
+uploads/scheme-applications/*
+!uploads/applications/.gitkeep
+!uploads/complaints/.gitkeep
+!uploads/scheme-applications/.gitkeep
+*.log
